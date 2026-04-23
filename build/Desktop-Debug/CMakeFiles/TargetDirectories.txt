@@ -1,9 +1,0 @@
-/home/vlad/Documents/553501/coursework/build/Desktop-Debug/CMakeFiles/coursework.dir
-/home/vlad/Documents/553501/coursework/build/Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/vlad/Documents/553501/coursework/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/vlad/Documents/553501/coursework/build/Desktop-Debug/CMakeFiles/list_install_components.dir
-/home/vlad/Documents/553501/coursework/build/Desktop-Debug/CMakeFiles/install.dir
-/home/vlad/Documents/553501/coursework/build/Desktop-Debug/CMakeFiles/install/local.dir
-/home/vlad/Documents/553501/coursework/build/Desktop-Debug/CMakeFiles/install/strip.dir
-/home/vlad/Documents/553501/coursework/build/Desktop-Debug/CMakeFiles/coursework_autogen_timestamp_deps.dir
-/home/vlad/Documents/553501/coursework/build/Desktop-Debug/CMakeFiles/coursework_autogen.dir
