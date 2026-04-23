@@ -1,0 +1,18 @@
+{
+  "Airports": [
+    {"Id": 1, "City": "Minsk", "Code": "MSQ"},
+    {"Id": 2, "City": "Moscow", "Code": "DME"},
+    {"Id": 4, "City": "Istanbul", "Code": "IST"},
+    {"Id": 5, "City": "Dubai", "Code": "DXB"},
+    {"Id": 8, "City": "Paris", "Code": "CDG"}
+  ],
+  "Flights": [
+    {"FlightNumber": "B2-101", "SourceId": 1, "DestId": 2, "Price": 125.0, "Departure": "2026-05-10T08:00:00", "Arrival": "2026-05-10T09:30:00"},
+    {"FlightNumber": "TK-201", "SourceId": 1, "DestId": 4, "Price": 340.0, "Departure": "2026-05-10T05:00:00", "Arrival": "2026-05-10T10:30:00"},
+    {"FlightNumber": "SU-101", "SourceId": 2, "DestId": 4, "Price": 280.0, "Departure": "2026-05-10T14:00:00", "Arrival": "2026-05-10T19:30:00"},
+    {"FlightNumber": "TK-401", "SourceId": 4, "DestId": 8, "Price": 210.0, "Departure": "2026-05-11T02:00:00", "Arrival": "2026-05-11T05:30:00"},
+    {"FlightNumber": "TK-111", "SourceId": 4, "DestId": 5, "Price": 290.0, "Departure": "2026-05-12T01:00:00", "Arrival": "2026-05-12T06:00:00"},
+    {"FlightNumber": "EK-001", "SourceId": 5, "DestId": 1, "Price": 540.0, "Departure": "2026-05-13T08:00:00", "Arrival": "2026-05-13T14:00:00"},
+    {"FlightNumber": "AF-909", "SourceId": 8, "DestId": 1, "Price": 415.0, "Departure": "2026-05-12T11:00:00", "Arrival": "2026-05-12T15:00:00"}
+  ]
+}
